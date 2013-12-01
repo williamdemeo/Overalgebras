@@ -1,9 +1,9 @@
 Overalgebras
 ============
 
-This repository contains the final version of my paper, 
-[Expansions of finite algebras and their congruence lattices][], 
-that appears in the journal *Algebra Universalis*, **69**, 2013.  
+This repository contains the final version of a journal article by William DeMeo,
+
+[Expansions of finite algebras and their congruence lattices][], *Algebra Universalis*, **69**, 2013.  
 
 Also included are the GAP programs for constructing new finite algebras by
 extending and expanding transitive G-sets, as described in the paper. 

@@ -17,6 +17,10 @@ See [universalalgebra.org][] for more information about [gap2uacalc.g][].
 
 For questions, comments, or suggestions please [submit an issue][].
 
+Thanks for your interest in this work!
+
+@williamdemeo
+
 [DeMeo-Expansions-AU-2013.pdf]: https://github.com/williamdemeo/Overalgebras/raw/master/DeMeo-Expansions-AU-2013.pdf
 [springer.com]: http://link.springer.com
 [Expansions of finite algebras and their congruence lattices]: https://github.com/williamdemeo/Overalgebras/raw/master/DeMeo-Expansions-AU-2013.pdf

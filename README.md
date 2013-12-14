@@ -19,7 +19,7 @@ For questions, comments, or suggestions please [submit an issue][].
 
 Thanks for your interest in this work!
 
-@williamdemeo
+[@williamdemeo](https://github.com/williamdemeo)
 
 [DeMeo-Expansions-AU-2013.pdf]: https://github.com/williamdemeo/Overalgebras/raw/master/DeMeo-Expansions-AU-2013.pdf
 [springer.com]: http://link.springer.com

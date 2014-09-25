@@ -12,15 +12,17 @@ G-sets, as described in the paper.
 
 **Abstract:** In this paper we present a novel approach to the construction of
 new finite algebras and describe the congruence lattices of these
-algebras. Given a finite algebra (B\_0, ...), let B\_1, B\_2, ..., B\_K
-be sets that either intersect B\_0 or intersect each other at certain points.
-We construct an  **overalgebra** (A, F\_A), by which we mean an expansion
-of (B\_0, ...) with universe  A = B\_0 U B\_1 U ... U B\_K,  and
-a certain set F\_A of unary operations that includes mappings
-e\_i satisfying e\_i<sup>2</sup> = e\_i and e\_i(A) = B\_i, for 0 <= i <= K.
+algebras. Given a finite algebra (B<sub>0</sub>, ...), let
+B<sub>1</sub>, B<sub>2</sub>, ..., B<sub>K</sub>
+be sets that either intersect B<sub>0</sub> or intersect each other at certain
+points. We construct an  *overalgebra* (A, F<sub>A</sub>), by which we mean an expansion
+of (B<sub>0</sub>, ...) with universe that is the union of the B<sub>i</sub>'s and 
+a certain set F<sub>A</sub> of unary operations that includes mappings
+e<sub>i</sub> satisfying e<sub>i</sub><sup>2</sup> = e<sub>i</sub> and
+e<sub>i</sub>(A) = B<sub>i</sub>, for 0 <= i <= K.
 
 We explore two such constructions and prove results about the shape of
-the new congruence lattices Con (A, F\_A) that result. Thus, descriptions of
+the new congruence lattices Con (A, F<sub>A</sub>) that result. Thus, descriptions of
 some new classes of finitely representable lattices is one contribution of this
 paper. Another, perhaps more significant contribution is the announcement of a
 novel approach to the discovery of new classes of representable lattices, the

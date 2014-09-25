@@ -19,7 +19,7 @@ points. We construct an  *overalgebra* (A,F<sub>A</sub>), by which we mean an ex
 of (B<sub>0</sub>,...) with universe that is the union of the B<sub>i</sub>'s and 
 a certain set F<sub>A</sub> of unary operations that includes mappings
 e<sub>i</sub> satisfying e<sub>i</sub><sup>2</sup> = e<sub>i</sub> and
-e<sub>i</sub>(A) = B<sub>i</sub>, for 0 <= i <= K.
+e<sub>i</sub>(A) = B<sub>i</sub>, for 0 &leq; i &leq; K.
 
 We explore two such constructions and prove results about the shape of
 the new congruence lattices Con(A,F<sub>A</sub>) that result. Thus, descriptions of

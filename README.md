@@ -1,12 +1,50 @@
 Overalgebras
 ============
 
-This repository contains my article
+This repository contains a journal article as well as the GAP software that was
+used for constructing new finite algebras by extending and expanding transitive
+G-sets, as described in the paper.  
 
-[Expansions of finite algebras and their congruence lattices][], *Algebra Universalis*, **69**, 2013,
+**Title:** [Expansions of finite algebras and their congruence lattices][]  
+**Author:** William DeMeo [@williamdemeo](https://github.com/williamdemeo)  
+**Journal:** *Algebra Universalis*  
+**Year:** 2013  
 
-as well as the GAP software I wrote for constructing new finite algebras by
-extending and expanding transitive G-sets, as described in the paper. 
+**Abstract:** In this paper we present a novel approach to the construction of
+new finite algebras and describe the congruence lattices of these
+algebras. Given a finite algebra (B\_0, ...), let B\_1, B\_2, ..., B\_K
+be sets that either intersect B\_0 or intersect each other at certain points.
+We construct an  **overalgebra** (A, F\_A), by which we mean an expansion
+of (B\_0, ...) with universe  A = B\_0 U B\_1 U ... U B\_K,  and
+a certain set F\_A of unary operations that includes mappings
+e\_i satisfying e\_i<sup>2</sup> = e\_i and e\_i(A) = B\_i, for 0 <= i <= K.
+
+We explore two such constructions and prove results about the shape of
+the new congruence lattices Con (A, F\_A) that result. Thus, descriptions of
+some new classes of finitely representable lattices is one contribution of this
+paper. Another, perhaps more significant contribution is the announcement of a
+novel approach to the discovery of new classes of representable lattices, the
+full potential of which we have only begun to explore.
+
+**BibTeX entry:**
+
+    @article {DeMeo:2013,
+        AUTHOR = {DeMeo, William},
+         TITLE = {Expansions of finite algebras and their congruence lattices},
+       JOURNAL = {Algebra Universalis},
+      FJOURNAL = {Algebra Universalis},
+        VOLUME = {69},
+          YEAR = {2013},
+        NUMBER = {3},
+         PAGES = {257--278},
+          ISSN = {0002-5240},
+       MRCLASS = {08A30 (06B10 08A60)},
+      MRNUMBER = {3041715},
+    MRREVIEWER = {E. W. Kiss},
+           DOI = {10.1007/s00012-013-0226-3},
+           URL = {http://dx.doi.org/10.1007/s00012-013-0226-3},
+    }
+
 
 The published version of the paper is in the file [DeMeo-Expansions-AU-2013.pdf][],
 and is also available at [springer.com][]. 
